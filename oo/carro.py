@@ -1,0 +1,5 @@
+"""
+>>> motor = Motor()
+>>> motor.velocidade
+
+"""
